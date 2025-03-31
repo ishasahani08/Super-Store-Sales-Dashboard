@@ -3,7 +3,11 @@ This Power BI dashboard provides key insights into the sales performance of a Su
 
 📊 Key Features
 
-✅ Sales & Profit Analysis (Monthly/Yearly)✅ Top-selling Products & Categories✅ Customer Segmentation & Behavior✅ Regional Performance Analysis (Maps & Charts)✅ Dynamic Filters & Slicers for Interactive Insights
+✅ Sales & Profit Analysis (Monthly/Yearly)
+✅ Top-selling Products & Categories
+✅ Customer Segmentation & Behavior
+✅ Regional Performance Analysis (Maps & Charts)
+✅ Dynamic Filters & Slicers for Interactive Insights
 
 🏗️ Tools & Technologies Used
 
